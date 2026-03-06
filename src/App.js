@@ -21,8 +21,8 @@ function Header() {
           <div className="container header-container">
             <div className="header-left">
               <div className="logo-wrapper">
-                <img src={logoImg} alt="KIEU VAN CUONG STUDIO" className="logo-img" />
-                <span className="studio-name">KIEU VAN CUONG STUDIO</span>
+                <img src={logoImg} alt="Avery Mills Studio" className="logo-img" />
+                <span className="studio-name">Avery Mills Studio</span>
               </div>
             </div>
             {!isPolicyPage && (
@@ -61,8 +61,8 @@ function HomePage() {
       <section id="about" className="section about">
         <div className="container about-row">
           <div className="about-text-container">
-            <h2 className="highlight-title">KIEU VAN CUONG STUDIO – Welcome Aboard</h2>
-            <p className="about-text">KIEU VAN CUONG STUDIO is a creative mobile game studio dedicated to building fun, engaging, and accessible experiences for everyone. We blend imagination and simplicity to create games that are easy to play — yet irresistibly addictive. Our mission is to spark joy in everyday life through intuitive gameplay, charming art, and satisfying progression. Every game we craft is designed with players at heart — delivering smooth performance, delightful interactions, and a lasting sense of fun that keeps you coming back for more.</p>
+            <h2 className="highlight-title">Avery Mills Studio – Welcome Aboard</h2>
+            <p className="about-text">Avery Mills Studio is a creative mobile game studio dedicated to building fun, engaging, and accessible experiences for everyone. We blend imagination and simplicity to create games that are easy to play — yet irresistibly addictive. Our mission is to spark joy in everyday life through intuitive gameplay, charming art, and satisfying progression. Every game we craft is designed with players at heart — delivering smooth performance, delightful interactions, and a lasting sense of fun that keeps you coming back for more.</p>
           </div>
           <div className="about-img-container">
             <img src={imgMkj} alt="About MKJ Studio" className="about-img" />
@@ -139,7 +139,7 @@ function HomePage() {
           <h2>Contact Us</h2>
           <p>
             If you have any questions about this Privacy Policy, request support, please contact us at:<br />
-            <a href="mailto: kvc21102000@gmail.com"> kvc21102000@gmail.com</a><br />
+            <a href="mailto: averymills950486@gmail.com"> averymills950486@gmail.com</a><br />
             <span style={{ display: 'inline-block', marginTop: '10px' }}></span>
           </p>
         </div>
@@ -159,7 +159,7 @@ function App() {
         </Routes>
         <footer className="footer">
           <div className="container text-center">
-            <p>&copy; {new Date().getFullYear()} KIEU VAN CUONG STUDIO. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} Avery Mills Studio. All rights reserved.</p>
           </div>
         </footer>
       </div>
