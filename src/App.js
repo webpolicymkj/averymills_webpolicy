@@ -39,7 +39,7 @@ function Header() {
 
 function HomePage() {
   const apps = [
-    { name: 'PDF Reader: Convert & Edit', image: pdf, link: 'https://apps.apple.com/vn/app/pdf-reader-convert-edit/id6752774269' },
+    { name: 'Heart Rate', image: pdf, link: 'https://apps.apple.com/vn/app' },
 //    { name: 'Dual Tele & Chat', image: tele, link: 'https://apps.apple.com/us/app/dual-tele-chat/id6575367066' },
 //    { name: 'Nuts & Bolts - 3D Wood Puzzle', image: nut, link: 'https://apps.apple.com/us/app/nuts-bolts-3d-wood-puzzle/id6590610383' },
 //    { name: 'Alarm Clock - Wake up alarm', image: alarm, link: 'https://apps.apple.com/us/app/alarm-clock-wake-up-alarm/id6504606302' },
